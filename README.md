@@ -1,4 +1,4 @@
-#**HR Data Analysis and Visualization with Power BI**
+# **HR Data Analysis and Visualization with Power BI**
 
 In this project, I took on the task of cleaning and analyzing an HR dataset using Excel and delved into multiple facets of employee information, ranging from age and salary averages to key factors such as department, position, gender, payment type, and branch. The project culminated in a comprehensive Power BI dashboard, visualizing valuable insights.
 
